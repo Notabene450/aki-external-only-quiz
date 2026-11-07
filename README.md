@@ -1,2 +1,5 @@
-# aki-external-only-quiz
-Acute Kidney Injury · External Only · Quiz
+# Acute Kidney Injury · External Only · Quiz
+
+كويز تفاعلي — ملف HTML واحد، بيفتح على أي موبايل أو كمبيوتر.
+
+اللينك: شوف **About → Website** في الريبو ده.
